@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio repository! Here you'll find a collection of links to my projects showcasing my skills and experiences.
+Welcome to my portfolio repository! My name is Tugume William Mutara Here you'll find a collection of links to my projects showcasing my skills and experiences.
 
 ## Projects
 
@@ -24,6 +24,8 @@ A web design project aimed at creating an interactive platform for exploring cam
 
 Feel free to explore each project by clicking on the links above.
 
-**Tugume William Mutara
-Northeastern University
-NUID: 002689176**
+Name: Tugume William Mutara
+
+Organization: Northeastern University
+
+NUID: 002689176
