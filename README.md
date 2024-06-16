@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio repository! Here you'll find a collection of my projects showcasing my skills and experiences.
+Welcome to my portfolio repository! Here you'll find a collection of links to my projects showcasing my skills and experiences.
 
 ## Projects
 
