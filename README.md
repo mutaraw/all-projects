@@ -17,7 +17,7 @@ A collection of web scraping projects demonstrating my ability to extract and pr
 This repository contains a series of mini projects that showcase different data science techniques and applications, ranging from data cleaning to machine learning.
 
 ### [National Vaccine Distribution System](https://github.com/mutaraw/national-vaccine-distribution-system)
-A project focused on designing and analyzing a national vaccine distribution system. It includes data analysis and visualization to optimize distribution strategies.
+A Java project focused on designing a national vaccine distribution system.
 
 ### [Campus Explorer Web Design Project](https://github.com/mutaraw/campus-explorer-web-design-project)
 A web design project aimed at creating an interactive platform for exploring campus facilities and resources. This project highlights my skills in web development and design.
